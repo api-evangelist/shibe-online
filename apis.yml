@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: http://shibe.online/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/shibe-online-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/shibe-online-domain-security.yml
   - type: Website
     url: http://shibe.online/
   - type: PublicAPIsListing
